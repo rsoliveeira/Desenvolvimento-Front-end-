@@ -1,0 +1,25 @@
+.card {
+  width: 250px;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #f9f9f9;
+  margin-top: 40px;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.name {
+  font-size: 20px;
+  margin: 10px 0 5px;
+}
+
+.description {
+  font-size: 14px;
+  color: #666;
+}
