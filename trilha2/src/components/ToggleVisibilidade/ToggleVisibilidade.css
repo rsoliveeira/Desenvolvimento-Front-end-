@@ -1,0 +1,28 @@
+.toggle-container {
+  text-align: center;
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 400px;
+  background-color: #fce4ec;
+  border-radius: 12px;
+}
+
+.toggle-container button {
+  background-color: #ec407a;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.toggle-container button:hover {
+  background-color: #d81b60;
+}
+
+.texto {
+  font-size: 18px;
+  color: #880e4f;
+}
